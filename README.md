@@ -1,4 +1,4 @@
-# CS320
+# CS320 Software Testing
 
 Within this simple project, I showcase my ability to test software. The testing software that was used was the JUnit. Using the the built in asserTrue methods, I test for functionality in the project.
 
